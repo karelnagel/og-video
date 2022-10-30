@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "@vercel/og": "^0.0.20",
+    "copy-webpack-plugin": "^11.0.0",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
